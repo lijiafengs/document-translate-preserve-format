@@ -1,0 +1,4 @@
+interface:
+  display_name: "document-translate-preserve-format"
+  short_description: "Format-Preserving Document Translation: translate docs while preserving layout."
+  default_prompt: "Use $document-translate-preserve-format to translate this document while preserving its original formatting."
